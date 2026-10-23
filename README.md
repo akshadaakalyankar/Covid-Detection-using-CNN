@@ -81,5 +81,4 @@ See `docs/model_card.md` for a full performance table once training is complete.
 
 This project is for **educational and research purposes only** and is not intended for clinical use.
 =======
-# Covid-Detection-using-CNN
->>>>>>> 6384a89b88853912bf506362a9d868eac6c18951
+
