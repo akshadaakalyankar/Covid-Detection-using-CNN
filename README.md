@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Covid CT Classification
 
 Binary classification of lung CT scans as **Covid-19 positive** or **normal** using PyTorch.
